@@ -29,6 +29,9 @@ a.logo{
 
 header ul {
     display: flex;
-    gap: 2.2em;
-    
+    gap: 2.2em; 
+}
+
+header ul li a{
+    color: black;
 }
