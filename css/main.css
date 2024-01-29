@@ -296,12 +296,11 @@ section.features strong{
     }
 
     footer .wrapper{
-        display: flex;
-        flex-direction: row;
         height: 200px;
         margin: 0;
         padding: 2em;
     }
+
 
 }
 
