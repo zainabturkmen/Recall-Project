@@ -167,7 +167,9 @@ section.features strong{
     }
 
     section.features .wrapper ul{
+        display: grid;
         
+
     }
 }
 
