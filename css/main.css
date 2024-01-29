@@ -112,6 +112,7 @@ section.features strong{
         background-color: var(--primary-color);
         padding: .5em 1em;
         font-weight: bold;
+        border-radius: .3em;
     }
 
     .hero .wrapper {
