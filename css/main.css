@@ -155,5 +155,14 @@ section.features strong{
     section.features .wrapper{
         transform: skewY(-7deg);
     }
+
+    section.features:brfore{
+        content: '';
+        position: absolute;
+        background: url('../assets/graphic.svg') no-repeat;
+        width: 205px;
+        height: 80px;
+
+    }
 }
 
