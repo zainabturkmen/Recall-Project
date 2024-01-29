@@ -176,5 +176,11 @@ section.features strong{
     section.features .wrapper ul li:last-of-type{
         grid-column: 1/3  ;
     }
+
+    /* testimonials section */
+
+    .testimonials-info {
+        
+    }
 }
 
