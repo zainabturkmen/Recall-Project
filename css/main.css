@@ -182,7 +182,15 @@ section.features strong{
     .testimonail-info {
         display: flex;
         gap: 2em;
+    }
 
+    .author-pic{
+        width: 10%;
+        height: 200px;
+    }
+
+    .author-pic, .author{
+        flex: 1;
     }
 }
 
