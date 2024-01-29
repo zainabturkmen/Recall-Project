@@ -257,5 +257,9 @@ section.features strong{
         gap: 4em;
         margin: 12em 0;
     }
+
+    .testimonail-quote, .testimonail-info{
+        flex: 1;
+    }
 }
 
