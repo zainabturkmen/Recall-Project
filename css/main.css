@@ -132,17 +132,19 @@ section.features strong{
     width: 325px;
     height: 177px;
     object-fit: cover;
+    margin-bottom: 2em;
 }
 
+.author strong{
+    font-size: 2em;
+    font-weight: 800;
+}
 
 .social-nav{
     display: flex;
     padding: .5em;
     gap: 2em;
     margin-top: 2em;
-}
-
-.social-nav li a{
 }
 
 
