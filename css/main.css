@@ -237,6 +237,9 @@ section.features strong{
         height: 300px;
     }
 
+    section.features .wrapper ul li:last-of-type{
+        
+    }
 
 }
 
