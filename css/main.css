@@ -102,9 +102,29 @@ section.features strong{
 }
 
 /* testimonail section */
+.testimonail{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 
+.testimonail-info .author{
+    width: 200px;
+}
 
+.testimonail-qoute h2{
+    width: 329px;
+    font-size: 3em;
+    font-family: "Playfair Display";
+    color: #000;
+}
 
+.testimonail .author-pic{
+    width: 325px;
+    height: 177px;
+    object-fit: cover;
+
+}
 /* Footer section */
 
 footer{
