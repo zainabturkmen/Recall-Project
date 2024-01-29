@@ -76,8 +76,10 @@ section.features{
     background: var(--primary-color);
     color: white;
     transform: skewY(12deg) translateY(-8em);
+
 }
 
 section.features .wrapper{
-    transform: skewY();
+    transform: skewY(-12deg);
+
 }
