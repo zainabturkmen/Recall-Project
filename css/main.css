@@ -61,5 +61,13 @@ p.subhead{
     gap: 1em;
     justify-content: center;
     margin-top: 3em;
+}
+
+.phone{
+    width: 90%;
+    margin-top: 5em;
+    position: relative;
+    z-index: 2;
+
 
 }
