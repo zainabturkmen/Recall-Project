@@ -258,6 +258,12 @@ section.features strong{
         margin: 12em 0;
     }
 
+    .author strong{
+        font-size: 2em;
+        font-family: 'Poppins';
+
+    }
+
    .author-pic{
     width: 250px;
     height: 185px;
