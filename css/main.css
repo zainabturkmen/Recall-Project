@@ -107,7 +107,11 @@ section.features strong{
 
     .header-cta{
         display: inherit;
-
+        color: white;
+        font-size: 1.6rem;
+        background-color: var(--primary-color);
+        padding: .5em 1em;
+        font-weight: bold;
     }
 
     .hero .wrapper {
