@@ -297,6 +297,20 @@ section.features strong{
 
     }
 
+    .footer-header{
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .footer-header nav ul {
+       
+    }
+
+    .footer{
+        display: flex;
+        justify-content: space-between;
+    }
+
     footer .wrapper{
         height: 200px;
         padding: 2em;
