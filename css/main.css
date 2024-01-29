@@ -133,6 +133,19 @@ section.features strong{
     height: 177px;
     object-fit: cover;
 }
+
+
+.social-nav{
+    display: flex;
+    padding: .5em;
+    gap: 2em;
+    margin-top: 2em;
+}
+
+.social-nav li a{
+}
+
+
 /* Footer section */
 
 footer{
