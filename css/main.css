@@ -202,7 +202,14 @@ section.features strong{
     }
 
     .author strong{
-        
+        font-weight: bold;
+        font-size: 1.5em;
+        display: block;
+    }
+
+    .author ul{
+        display: flex;
+        gap: 1em;
     }
 
 }
