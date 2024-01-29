@@ -259,7 +259,11 @@ section.features strong{
     }
 
     .testimonail-quote, .testimonail-info{
-        flex: 1;
+        /* flex: 1; */
+    }
+
+    .testimonail h2{
+        margin-top: 0;
     }
 }
 
