@@ -291,6 +291,17 @@ section.features strong{
         font-weight: 400;
     }
 
-    
+    footer{
+        background-color: #EDEDED;
+    }
+
+    footer .wrapper{
+        display: flex;
+        flex-direction: row;
+        height: 200px;
+        margin: 0;
+        padding: 2em;
+    }
+
 }
 
