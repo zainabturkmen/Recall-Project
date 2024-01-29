@@ -293,11 +293,12 @@ section.features strong{
 
     footer{
         background-color: #EDEDED;
+        margin: 0;
+
     }
 
     footer .wrapper{
         height: 200px;
-        margin: 0;
         padding: 2em;
     }
 
