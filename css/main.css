@@ -258,9 +258,9 @@ section.features strong{
         margin: 12em 0;
     }
 
-    .testimonail-quote, .testimonail-info{
-        /* flex: 1; */
-    }
+   .author-pic{
+    width: 200px;
+   }
 
     .testimonail h2{
         margin-top: 0;
