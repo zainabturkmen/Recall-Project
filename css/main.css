@@ -219,6 +219,10 @@ section.features strong{
         max-width: 1000px;
         margin: 2em auto;
     }
-    
+
+    .phone{
+        position: absolute;
+        width: 500px;
+    }
 }
 
