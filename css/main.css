@@ -186,7 +186,9 @@ section.features strong{
 
     .author-pic{
         width: 10%;
-        height: 200px;
+        height: 150px;
+        object-fit: cover;
+        border-radius: 20px;
     }
 
     .author-pic, .author{
