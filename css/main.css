@@ -259,7 +259,8 @@ section.features strong{
     }
 
    .author-pic{
-    width: 200px;
+    width: 250px;
+    height: 185px;
    }
 
     .testimonail-qoute h2{
@@ -269,6 +270,7 @@ section.features strong{
         text-align: right;
         color: #4D4D4D;
         font-weight: 400;
+        width: 500px;
     }
 
     .testimonail-qoute p{
