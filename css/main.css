@@ -164,7 +164,10 @@ section.features strong{
         height: 80px;
         left: 10%;
         bottom: -30px;
+    }
 
+    section.features .wrapper ul{
+        
     }
 }
 
