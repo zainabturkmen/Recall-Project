@@ -267,6 +267,8 @@ section.features strong{
         font-size: 35px;
         font-family: "Playfair Display";
         text-align: right;
+        color: #4D4D4D;
+        font-weight: 400;
     }
 
     .testimonail-qoute p{
@@ -274,7 +276,7 @@ section.features strong{
         font-size: 2em;
         text-align: right;
         color:#4D4D4D;
-        
+        font-weight: 400;
     }
 }
 
