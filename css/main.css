@@ -264,7 +264,9 @@ section.features strong{
         font-weight: 800;
     }
 
-    .author 
+    .author ul li{
+        margin-top: -5em;
+    }
 
    .author-pic{
     width: 250px;
