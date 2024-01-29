@@ -320,6 +320,17 @@ section.features strong{
         padding: 2em;
     }
 
+    .secondary-nav ul{
+        display: flex;
+        flex-direction: row;
+        gap: 2em;
+        margin-top: 2em;
+    }
+
+    .secondary-nav ul li a{
+        font-size: 1rem ;
+    }
+
 
 }
 
