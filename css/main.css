@@ -266,6 +266,12 @@ section.features strong{
         margin-top: 0;
         font-size: 35px;
         font-family: "Playfair Display";
+        text-align: right;
+    }
+
+    .testimonail-qoute p{
+        width: 400px;
+        text-align: right;
     }
 }
 
