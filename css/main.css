@@ -88,3 +88,15 @@ section.features .wrapper ul{
     gap: 3em;
     padding: 5em 0 10em;
 }
+
+section.features svg{
+    width: 3.5rem;
+    margin-left: -.15em;
+}
+
+section.features strong{
+    display: flex;
+    flex-direction: column;
+    font-size: 2.6rem;
+    gap: .2em;
+}
