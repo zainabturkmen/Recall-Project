@@ -245,5 +245,9 @@ section.features strong{
     section.features .wrapper ul li:nth-of-type(2){
         align-self: center;
     }
+
+    section.features:before{
+
+    }
 }
 
