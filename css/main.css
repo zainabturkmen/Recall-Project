@@ -179,8 +179,10 @@ section.features strong{
 
     /* testimonials section */
 
-    .testimonials-info {
-        
+    .testimonail-info {
+        display: flex;
+        gap: 2em;
+
     }
 }
 
