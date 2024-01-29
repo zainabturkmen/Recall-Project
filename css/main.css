@@ -195,6 +195,11 @@ section.features strong{
         flex: 1;
     }
 
-    
+    .author{
+        display: flex;
+        
+    }
+
+
 }
 
