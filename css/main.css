@@ -247,7 +247,7 @@ section.features strong{
     }
 
     section.features:before{
-
+        left: 22%;
     }
 }
 
