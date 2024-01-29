@@ -197,7 +197,8 @@ section.features strong{
 
     .author{
         display: flex;
-        
+        flex-direction: column;
+        justify-content: space-between;
     }
 
 
