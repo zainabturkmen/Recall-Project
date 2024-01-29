@@ -149,6 +149,11 @@ section.features strong{
 
     /* features section */
 
-    
+    section.features{
+        transform: skewY(7deg);
+    }
+    section.features .wrapper{
+        transform: skewY(-7deg);
+    }
 }
 
