@@ -42,3 +42,6 @@ a.active{
 
 /* hero section */
 
+section.hero{
+    text-align: center;
+}
