@@ -295,7 +295,6 @@ section.features strong{
         background-color: #EDEDED;
         margin: 0;
         padding: 0;
-
     }
 
     .footer-header{
@@ -303,9 +302,16 @@ section.features strong{
         justify-content: space-between;
     }
 
+    .footer-header .logo{
+        padding: .5em;
+        
+    }
+
     .footer ul{
         display: flex;
-        justify-content: space-between;
+    }
+
+    .footer ul li{
         padding: 2em;
     }
 
