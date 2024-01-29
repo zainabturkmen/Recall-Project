@@ -133,15 +133,16 @@ section.features strong{
     .hero .right-col{
         position: relative;
         width: 400px;
-        height: 510px;
+        height: 500px;
         overflow: hidden;
+        z-index: 1;
+
     }
 
     .phone{
         position: absolute;
         left: 0;
         width: 400px;
-        z-index: 1;
     }
 
     .cta-btns{
