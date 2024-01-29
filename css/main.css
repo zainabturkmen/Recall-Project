@@ -270,8 +270,11 @@ section.features strong{
     }
 
     .testimonail-qoute p{
-        width: 400px;
+        width: 550px;
+        font-size: 2em;
         text-align: right;
+        color:#4D4D4D;
+        
     }
 }
 
