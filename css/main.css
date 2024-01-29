@@ -101,6 +101,53 @@ section.features strong{
     gap: .2em;
 }
 
+/* testimonail section */
+
+
+
+/* Footer section */
+
+footer{
+    background-color: #EDEDED;
+    margin-bottom: 0;
+    height: 250px;
+}
+
+.footer-header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-header .logo{
+    padding: .5em;
+    margin-left: -.5em;
+}
+
+.footer ul{
+    display: flex;
+}
+
+.footer ul li{
+    padding: 2em;
+}
+
+footer .wrapper{
+    height: 200px;
+    padding: 2em;
+}
+
+.secondary-nav ul{
+    display: flex;
+    flex-direction: row;
+    gap: 2em;
+    margin-top: 2em;
+}
+
+.secondary-nav ul li a{
+    font-size: 1.4rem ;
+    text-decoration: underline;
+}
+
 /*  Media queroes -- Tablet*/
 
 @media only screen and (min-width: 700px){
@@ -211,6 +258,48 @@ section.features strong{
     .author ul{
         display: flex;
         gap: 1em;
+    }
+
+    /* footer section */
+    footer{
+        background-color: #EDEDED;
+        margin-bottom: 0;
+        height: 250px;
+    }
+
+    .footer-header{
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .footer-header .logo{
+        padding: .5em;
+        margin-left: -.5em;
+    }
+
+    .footer ul{
+        display: flex;
+    }
+
+    .footer ul li{
+        padding: 2em;
+    }
+
+    footer .wrapper{
+        height: 200px;
+        padding: 2em;
+    }
+
+    .secondary-nav ul{
+        display: flex;
+        flex-direction: row;
+        gap: 2em;
+        margin-top: 2em;
+    }
+
+    .secondary-nav ul li a{
+        font-size: 1.4rem ;
+        text-decoration: underline;
     }
 }
 
