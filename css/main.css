@@ -45,3 +45,21 @@ a.active{
 section.hero{
     text-align: center;
 }
+
+h1{
+    font-size: 3.2rem;
+    margin-top: 2em;
+    margin-bottom: .5em;
+}
+
+p.subhead{
+    font-size: 2rem;
+}
+
+.cta-btns{
+    display: flex;
+    gap: 1em;
+    justify-content: center;
+    margin-top: 3em;
+
+}
