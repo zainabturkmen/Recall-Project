@@ -104,7 +104,12 @@ section.features strong{
 /*  Media queroes -- Tablet*/
 
 @media only screen and (min-width: 700px){
-    
+
+    .header-cta{
+        display: inherit;
+
+    }
+
     .hero .wrapper {
         display: flex;
         justify-content: space-between;
