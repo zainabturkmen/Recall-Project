@@ -113,17 +113,24 @@ section.features strong{
 }
 
 .testimonail-qoute h2{
-    width: 329px;
+    width: 350px;
     font-size: 3em;
     font-family: "Playfair Display";
     color: #000;
+    margin-left: .8em;
+    margin-top: 0;
+    font-weight:400;
+}
+.testimonail-qoute p{
+    font-weight: 400;
+    line-height: 164.5%; /* 26.32px */
+    margin-left: 1.3em;
 }
 
 .testimonail .author-pic{
     width: 325px;
     height: 177px;
     object-fit: cover;
-
 }
 /* Footer section */
 
