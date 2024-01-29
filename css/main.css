@@ -156,12 +156,14 @@ section.features strong{
         transform: skewY(-7deg);
     }
 
-    section.features:brfore{
+    section.features:before{
         content: '';
         position: absolute;
         background: url('../assets/graphic.svg') no-repeat;
         width: 205px;
         height: 80px;
+        left: 10%;
+        bottom: -30px;
 
     }
 }
