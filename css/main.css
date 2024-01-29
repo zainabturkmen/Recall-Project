@@ -251,5 +251,11 @@ section.features strong{
     }
 
     /* testimonail section*/
+
+    .testimonail{
+        display: flex;
+        gap: 4em;
+        margin: 12em 0;
+    }
 }
 
