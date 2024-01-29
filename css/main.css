@@ -68,6 +68,11 @@ p.subhead{
     margin-top: 5em;
     position: relative;
     z-index: 2;
+}
 
+/* features section */
 
+section.features{
+    background: var(--primary-color);
+    
 }
