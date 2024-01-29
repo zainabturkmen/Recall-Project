@@ -238,7 +238,8 @@ section.features strong{
     }
 
     section.features .wrapper ul li:last-of-type{
-        
+        grid-column: auto;
+        align-self: flex-end;
     }
 
 }
