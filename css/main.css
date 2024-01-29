@@ -133,7 +133,7 @@ section.features strong{
     .hero .right-col{
         position: relative;
         width: 400px;
-        height: 500px;
+        height: 510px;
         overflow: hidden;
     }
 
@@ -141,6 +141,7 @@ section.features strong{
         position: absolute;
         left: 0;
         width: 400px;
+        z-index: 1;
     }
 
     .cta-btns{
@@ -212,7 +213,7 @@ section.features strong{
         gap: 1em;
     }
 
-    
+
 
 }
 
