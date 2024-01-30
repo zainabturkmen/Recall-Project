@@ -505,6 +505,9 @@ footer .wrapper{
     animation: fadeInUp 1s forwards;
 }
 
+.subhead{
+    animation-delay: .3s;
+}
 @keyframes fadeInUp {
     from{
         transform: translateY(30px);
