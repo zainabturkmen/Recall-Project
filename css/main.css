@@ -499,3 +499,8 @@ footer .wrapper{
         transform: translateY(15px);
     }
 }
+
+.features .wrapper ul li, h1, .subhead, .cta-btns{
+    opacity: 0;
+    animation: ;
+}
