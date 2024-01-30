@@ -502,5 +502,5 @@ footer .wrapper{
 
 .features .wrapper ul li, h1, .subhead, .cta-btns{
     opacity: 0;
-    animation: ;
+    animation: fadeInUp 1s forwards;
 }
