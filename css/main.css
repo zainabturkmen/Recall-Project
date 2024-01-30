@@ -486,3 +486,6 @@ footer .wrapper{
     }
 }
 
+.phone{
+    animation: subtleMove 2s alternate-reverse infinite ease-in-out;
+}
