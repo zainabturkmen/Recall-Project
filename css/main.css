@@ -508,9 +508,15 @@ footer .wrapper{
 .subhead{
     animation-delay: .3s;
 }
+
+.cta-btns{
+    animation-delay: .5s;
+}
+
+
 @keyframes fadeInUp {
     from{
-        transform: translateY(30px);
+        transform: translateY(-30px);
     }
     to{
         transform: translateY(0);
