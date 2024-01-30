@@ -490,3 +490,12 @@ footer .wrapper{
     animation: subtleMove 2s alternate-reverse infinite ease-in-out;
 }
 
+@keyframes subtleMove{
+    from{
+        transform: translateY(0);
+    }
+
+    to{
+        transform: translateY(15px);
+    }
+}
