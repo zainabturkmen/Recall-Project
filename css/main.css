@@ -13,17 +13,22 @@ ul {list-style-type:none;margin:0;padding:0;}
 body {
     font-family: 'Nunito', sans-serif;
     margin: 0;
+    width: 440px;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding-top: 3em;
 }
 
 header{
     background-color: black;
     margin-top: -6.5em;
-    /* padding: 1.8em 0 .1em; */
     position: fixed;
     width: 535px;
     height: 80px;
     color: white;
-    /* z-index: 1; */
+    z-index: 1;
+    padding-top: 2.5em;
 }
 
 .navbar{
@@ -34,7 +39,7 @@ header{
 }
 
 .left-col{
-    margin-top: 4em;
+    padding-top: 3em;
 }
 a.logo{
     font-weight: bold;
@@ -167,7 +172,7 @@ section.features strong{
 footer{
     background-color: #EDEDED;
     margin-bottom: 0;
-    height: 250px;
+    height: 270px;
 }
 
 .footer-header{
@@ -188,9 +193,11 @@ footer{
     padding: 2em;
 }
 
+
 footer .wrapper{
     height: 200px;
     padding: 2em;
+    margin-bottom: 0;
 }
 
 .secondary-nav ul{
@@ -203,6 +210,7 @@ footer .wrapper{
 .secondary-nav ul li a{
     font-size: 1.4rem ;
     text-decoration: underline;
+    margin-bottom: 2em;
 }
 
 /*  Media queroes -- Tablet*/
