@@ -516,10 +516,10 @@ footer .wrapper{
 
 @keyframes fadeInUp {
     from{
-        transform: translateY(-30px);
+        transform: translateY(30px);
     }
     to{
-        transform: translateY(0);
+        transform: translateY(0px);
         opacity: 1;
     }
 }
