@@ -15,6 +15,17 @@ body {
     margin: 0;
 }
 
+header{
+    background-color: var(--primary-color);
+    margin-top: -3em;
+    /* padding: 1.8em 0 .1em; */
+    position: fixed;
+    width: 1600px;
+    height: 80px;
+    color: white;
+    z-index: 1;
+}
+
 .navbar{
     display: flex;
     justify-content: space-between;
@@ -22,9 +33,9 @@ body {
 }
 
 a.logo{
-    color: var(--primary-color);
     font-weight: bold;
     font-size: 2.8rem;
+    color: white;
 }
 
 header ul {
@@ -33,7 +44,7 @@ header ul {
 }
 
 header ul li a{
-    color: black;
+    color: white;
 }
 
 a.active{
