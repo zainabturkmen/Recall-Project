@@ -17,10 +17,10 @@ body {
 
 header{
     background-color: black;
-    margin-top: -3em;
+    margin-top: -6em;
     /* padding: 1.8em 0 .1em; */
     position: fixed;
-    width: 1600px;
+    width: 400px;
     height: 80px;
     color: white;
     z-index: 1;
@@ -219,6 +219,17 @@ footer .wrapper{
         border-radius: .3em;
     }
 
+    header{
+        background-color: black;
+        margin-top: -3em;
+        /* padding: 1.8em 0 .1em; */
+        position: fixed;
+        max-width: 720px;
+        height: 80px;
+        color: white;
+        z-index: 1;
+    }
+
     .hero .wrapper {
         display: flex;
         justify-content: space-between;
@@ -385,6 +396,17 @@ footer .wrapper{
     .wrapper{
         max-width: 1000px;
         margin: 2em auto;
+    }
+
+    header{
+        background-color: black;
+        margin-top: -3em;
+        /* padding: 1.8em 0 .1em; */
+        position: fixed;
+        width: 1600px;
+        height: 80px;
+        color: white;
+        z-index: 1;
     }
 
     .phone{
