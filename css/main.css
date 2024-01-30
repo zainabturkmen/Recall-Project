@@ -504,3 +504,13 @@ footer .wrapper{
     opacity: 0;
     animation: fadeInUp 1s forwards;
 }
+
+@keyframes fadeInUp {
+    from{
+        transform: translateX(30px);
+    }
+    to{
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
