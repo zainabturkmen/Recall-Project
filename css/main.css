@@ -84,6 +84,10 @@ p.subhead{
     align-items: center;
 }
 
+.cta-btns .gplay, .ppstore img{
+    width: 50px;
+}
+
 .phone{
     width: 90%;
     margin-top: 5em;
