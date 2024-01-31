@@ -13,7 +13,8 @@ ul {list-style-type:none;margin:0;padding:0;}
 body {
     font-family: 'Nunito', sans-serif;
     margin: 0;
-    max-width: 1900px;
+    /* max-width: 1900px; */
+    width: auto;
     display: flex;
     flex-direction: column;
     margin: 0;
@@ -24,7 +25,8 @@ header{
     background-color: black;
     margin-top: -6.5em;
     position: fixed;
-    width: 380px;
+    width: 430px;
+    /* width: auto; */
     height: 80px;
     color: white;
     z-index: 1;
@@ -82,11 +84,9 @@ p.subhead{
     justify-content: center;
     margin-top: 3em;
     align-items: center;
+    flex-direction: column;
 }
 
-.cta-btns .gplay, .ppstore img{
-    width: 50px;
-}
 
 .phone{
     width: 90%;
@@ -177,7 +177,8 @@ section.features strong{
 footer{
     background-color: #EDEDED;
     margin-bottom: 0;
-    height: 270px;
+    height: 340px;
+    padding-bottom: 1em;
 }
 
 .footer-header{
@@ -236,7 +237,7 @@ footer .wrapper{
         background-color: black;
         margin-top: -3em;
         position: fixed;
-        width: 769px;
+        width: 800px;
         height: 80px;
         color: white;
         z-index: 1;
@@ -273,6 +274,7 @@ footer .wrapper{
 
     .cta-btns{
         justify-content: left;
+        flex-direction: row;
     }
 
     /* features section */
@@ -416,7 +418,7 @@ footer .wrapper{
         margin-top: -3em;
         /* padding: 1.8em 0 .1em; */
         position: fixed;
-        width: 1600px;
+        width: 1400px;
         height: 80px;
         color: white;
         z-index: 1;
