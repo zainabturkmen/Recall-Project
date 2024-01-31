@@ -230,9 +230,9 @@ footer .wrapper{
     header{
         background-color: black;
         margin-top: -3em;
-        position: fixed;
-        width: 755px;
-        height: 80px;
+        position: sticky;
+        /* width: 755px; */
+        /* height: 80px; */
         color: white;
         z-index: 1;
         padding-top: 0;
