@@ -81,6 +81,7 @@ p.subhead{
     gap: 1em;
     justify-content: center;
     margin-top: 3em;
+    align-items: center;
 }
 
 .phone{
