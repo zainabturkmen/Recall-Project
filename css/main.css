@@ -410,10 +410,7 @@ footer .wrapper{
     header{
         background-color: black;
         margin-top: -3em;
-        /* padding: 1.8em 0 .1em; */
-        position: fixed;
-        width: 1550px;
-        height: 80px;
+        position: sticky;
         color: white;
         z-index: 1;
     }
