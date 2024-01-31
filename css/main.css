@@ -24,7 +24,7 @@ header{
     background-color: black;
     margin-top: -6.5em;
     position: fixed;
-    width: 535px;
+    width: 500px;
     height: 80px;
     color: white;
     z-index: 1;
@@ -231,7 +231,7 @@ footer .wrapper{
         background-color: black;
         margin-top: -3em;
         position: fixed;
-        width: 730px;
+        width: 769px;
         height: 80px;
         color: white;
         z-index: 1;
