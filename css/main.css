@@ -22,9 +22,6 @@ header{
     background-color: black;
     margin-top: -6.5em;
     position: sticky;
-    width: 550px;
-    /* width: auto; */
-    height: 80px;
     color: white;
     z-index: 1;
     padding-top: 2.5em;
