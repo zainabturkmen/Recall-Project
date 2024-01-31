@@ -5,15 +5,29 @@
 html {font-size: 62.5%;}
 
 p, a {font-size: 1.8rem;}
-a {text-decoration: none;}
-ul {list-style-type:none;margin:0;padding:0;}
-.header-cta, .arrow {display: none;}
-.wrapper { margin: 2.6em; }
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style-type:none;
+    margin:0;
+    padding:0;
+}
+
+.header-cta, .arrow {
+    display: none;
+}
+
+.wrapper { 
+    padding: 2.6em; 
+    /* padding-bottom: 0; */
+}
 
 body {
     font-family: 'Nunito', sans-serif;
-    /* display: flex; */
-    /* flex-direction: column; */
+    display: flex;
+    flex-direction: column;
     margin: 0;
     padding-top: 3em;
 }
