@@ -21,7 +21,7 @@ body {
 header{
     background-color: black;
     margin-top: -6.5em;
-    position: fixed;
+    position: sticky;
     width: 550px;
     /* width: auto; */
     height: 80px;
